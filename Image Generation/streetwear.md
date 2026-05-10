@@ -1,0 +1,3 @@
+A close-up, medium shot captures a person wearing a brown bucket hat with a white rectangular label that reads "HEMLABEL" in black text. The hat is pulled down, casting a shadow over the upper half of the face, leaving only the nose, lips, and chin visible. The subject has light skin with freckles scattered across their nose and cheeks. They are wearing a brown collared jacket, buttoned up. The background is a dark, solid brown, creating a moody and intimate atmosphere. The lighting is dramatic, with a strong light source illuminating the lower part of the face and casting deep shadows.
+
+<img width="552" height="710" alt="image" src="https://github.com/user-attachments/assets/9b3983e7-bc25-40e7-af18-496d83df13c4" />

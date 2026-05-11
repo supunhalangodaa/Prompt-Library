@@ -16,3 +16,8 @@ HEX VALUES: ["#b7a490", "#2c2d25", "#9c8c7d", "#b8aa9f", "#a99887", "#837565", "
 
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/204cd041-cfd1-411c-b53c-11bbcfeedf41" />
 
+My Model but differnet clothes where The image consists of two vertically aligned photographs featuring a young Caucasian woman in a stylized pose within a minimalist interior. She is approximately in her 20s, with long, wavy brown hair and striking features. She is wearing a tight-fitting, dark grey mini dress with large metal eyelets and over-sized black sunglasses. Her outfit is paired with high-heeled black sandals and knee-high dark stockings, and she accessorizes with a silver bracelet. The upper photo is a high-angle shot capturing her sitting on a dark grey floor against a white wall with a reflective metal and glass table adjacent to her. The lower photo shows her side profile in a more relaxed pose. The dominant lighting is a stark, direct flash creating hard, bright highlights and soft shadows, imparting a smooth texture to her skin and a vivid tone to the color palette focused on black, grey, and metallics. The overall atmosphere is high-fashion and editorial with an emphasis on bold style choices and a stark, visually arresting presentation.
+HEX VALUES: ["#fefefe", "#7e8084", "#f3f0eb", "#878a8e", "#8f959b", "#71757a", "#f7d8ce", "#9fa3a8", "#666568", "#c4b4b1"]
+
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/b3fa1cae-f2af-4e24-abc1-feee71cb052b" />
+
